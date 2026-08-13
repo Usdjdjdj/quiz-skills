@@ -15,4 +15,4 @@ Give the skill a topic, for example:
 
 - "Make a quiz about world capitals"
 - "Test me on Python basics"
-- "Quiz me on the solar system"
+- "Quiz me on the solar system. 
