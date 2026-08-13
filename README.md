@@ -1,4 +1,3 @@
-
 # Quiz Maker
 
 A skill that tests knowledge of any topic. You name the topic and difficulty level, and the skill creates questions. It never explains the topic — it only asks.
